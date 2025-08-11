@@ -1,4 +1,36 @@
-body {
-    background-color: chartreuse;
-    color: cadetblue;
+body { 
+    background-color: rgb(127, 162, 251);
+    color: rgb(255, 134, 156);
+font-family: "Oswald", sans-serif;
+}
+
+header{ 
+    font-size: 50px;
+    border-bottom: double 5px rgb(176, 252, 151);
+    padding: 50px;
+    text-align: center;
+    color: white
+}
+h1 {
+    font-size: 30px;
+}
+
+section { 
+    background-color: rgb(9, 16, 34);
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada-texto {
+    margin-right:30px;
+}
+
+
+img{
+    height: 300;
+    width: 200;
+
+    font-family: "Edu NSW ACT Hand Pre", cursive;
+    
 }
